@@ -1,2 +1,4 @@
 Hi, my name is Italo!!! 
-I'm a novice programmer, and I'm just looking for knowledge 🖖
+Welcome to my mess, don't pay attention to the details...
+
+This environment will be improved every day 🍀
