@@ -6,7 +6,7 @@ This is my programmer's corner, still under development...
 There's a lot of work ahead!
 
 
-- :telescope:   I'm currently learning:  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="35" height="35"/>  
+- :telescope:   I'm currently learning: Python
 - :mortar_board:  I'm studying Information Systems in UFRN
 -   I'm 24 years old
 -   My profile: [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/italomauricio1)](https://github.com/italomauricio1)
