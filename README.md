@@ -15,7 +15,7 @@ There's a lot of work ahead!
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=italomauricio1)](https://github.com/ryo-ma/github-profile-trophy)
 
-### ESTATICS:
+### STATISTICS:
 
 <div>
 <a href="https://github.com/seu-usuário-aqui">
@@ -26,6 +26,7 @@ There's a lot of work ahead!
 
 ![GitHub metrics](https://metrics.lecoq.io/italomauricio1)
 
+![Profile views](https://gpvc.arturio.dev/italomauricio1) 
 
 
 
@@ -39,12 +40,11 @@ There's a lot of work ahead!
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=italomauricio1)  
 
-![Profile views](https://gpvc.arturio.dev/italomauricio1)  
 
 
 
 
-
+### ACTIVITIES 	:snake:
 
 ![Snake animation](https://github.com/italomauricio1/italomauricio1/blob/output/github-contribution-grid-snake.svg)
 
