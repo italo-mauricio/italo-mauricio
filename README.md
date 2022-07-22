@@ -17,10 +17,10 @@ Studying Information Systems - UFRN 👨‍🎓
 <div>
 <a href="https://github.com/italomauricio1">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italomauricio1&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=italomauricio1-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=italomauricio1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ![Snake animation](https://github.com/italomauricio1/italomauricio1/blob/output/github-contribution-grid-snake.svg)
 
 
-This environment will be improved every day 🍀
+
