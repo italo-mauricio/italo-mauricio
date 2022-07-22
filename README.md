@@ -3,7 +3,10 @@ Hi, my name is Italo!!!
 Welcome to my mess, don't pay attention to the details...
 
 I’m currently learning <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/>
+
 Studying Information Systems - UFRN 👨‍🎓
+
+
 
 
 <div>
