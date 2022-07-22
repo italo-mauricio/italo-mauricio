@@ -15,9 +15,9 @@ There's a lot of work ahead!
 
 <div>
 <a href="https://github.com/seu-usuário-aqui">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=italomauricio1&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=italomauricio1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italomauricio1&layout=compact&langs_count=7&theme=cobalt"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italomauricio1&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ![GitHub metrics](https://metrics.lecoq.io/italomauricio1)
