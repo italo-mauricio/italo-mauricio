@@ -6,10 +6,8 @@ This is my programmer's corner, still under development...
 There's a lot of work ahead!
 
 
-- 🌱 I’m currently learning: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="30" height="30"/>
--  
-                            
-- 
+- 🌱 I’m currently learning: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="30" height="30"/>  
+                        
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/italomauricio1)  
