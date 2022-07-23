@@ -1,15 +1,24 @@
 
 ### Hi there 👋, my name is Italo!
-#### Welcome to my profile on GitHub!
+#### Welcome to my profile on GitHub! :grin: 
+**This is my programmer's corner, still under development :star:**
 
-This is my programmer's corner, still under development...
-There's a lot of work ahead!
+**There's a lot of work ahead! :hammer_and_wrench:**
 
+**I'm currently learning: Python :snake:**
 
-- :telescope:   I'm currently learning: Python
-- :mortar_board:  I'm studying Information Systems in UFRN
--   I'm 24 years old
--   My profile: [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/italomauricio1)](https://github.com/italomauricio1)
+**I really like to learn new things :computer:**
+
+**I am currently Studying Information Systems :student:**
+
+**Enjoy...** :v:
+
+### :calling: Contacts:
+<div>
+
+<a href = "mailto:italomauricio98@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/USERNAME)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/italo-mauricio-26b76b15a/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/italomauricio1/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/USERNAME) 
+
 
 ### :fire: My Stats :
 
@@ -31,12 +40,6 @@ There's a lot of work ahead!
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
   
-
-### :white_check_mark: Contacts:
-<div>
-
-<a href = "mailto:italomauricio98@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/USERNAME)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/italo-mauricio-26b76b15a/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/italomauricio1/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/USERNAME) 
 
 
 
