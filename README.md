@@ -27,12 +27,12 @@ There's a lot of work ahead!
 ![Profile views](https://gpvc.arturio.dev/italomauricio1) 
 
 
-### :hammer_and_wrench: Languages and Tools :
+## :hammer_and_wrench: Languages and Tools: 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
   
 
-### Contacts:
+### :white_check_mark: Contacts:
 <div>
 
 <a href = "mailto:italomauricio98@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
