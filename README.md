@@ -15,9 +15,9 @@ There's a lot of work ahead!
 
 <div>
 <a href="https://github.com/italomauricio1">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=italomauricio1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=italomauricio1&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italomauricio1&layout=compact&langs_count=7&theme=dracula"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italomauricio1&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
 
 ![GitHub metrics](https://metrics.lecoq.io/italomauricio1)
@@ -36,7 +36,9 @@ There's a lot of work ahead!
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=italomauricio1)  
 
 
+### MUSIC:
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31yd3zbwbu3rlhp4h3zwuniqcv7m&cover_image=false&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=31yd3zbwbu3rlhp4h3zwuniqcv7m&redirect=true)
 
 
 ### ACTIVITIES 	:snake:
