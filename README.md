@@ -1,5 +1,5 @@
 
-### Hi there 👋, my name is Italo!
+### Hi there 👋, my name is Italo!                                                                         
 #### Welcome to my profile on GitHub! :grin: 
 **This is my programmer's corner, still under development :star:**
 
@@ -12,6 +12,8 @@
 **I am currently Studying Information Systems - UFRN :student:**
 
 **Enjoy...** :v:
+
+![](https://komarev.com/ghpvc/?username=your-github-italomauricio1)
 
 ### :calling: Contacts:
 <div>
@@ -40,7 +42,6 @@
 
 ![GitHub metrics](https://metrics.lecoq.io/italomauricio1)
 
-![Profile views](https://gpvc.arturio.dev/italomauricio1) 
 
 
 ## :hammer_and_wrench: Languages and Tools: 
