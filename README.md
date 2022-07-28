@@ -9,7 +9,7 @@
 
 **I really like to learn new things :computer:**
 
-**I am currently Studying Information Systems :student:**
+**I am currently Studying Information Systems - UFRN :student:**
 
 **Enjoy...** :v:
 
