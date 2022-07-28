@@ -38,9 +38,7 @@
 
 ## CodeRank:
 
-<img
-  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=italomauricio1&skills=Vue,C%2B%2B,C%23,SCSS,Svelte&width=820"
-/>
+<codersrank-skills-chart username="italomauricio1"></codersrank-skills-chart>
 
 ## :hammer_and_wrench: Languages and Tools: 
 <div>
