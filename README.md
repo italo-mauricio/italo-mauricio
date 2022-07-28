@@ -35,11 +35,12 @@
 ![GitHub metrics](https://metrics.lecoq.io/italomauricio1)
 
 ![Profile views](https://gpvc.arturio.dev/italomauricio1) 
-  
-<img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=italomauricio1&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
-/>
 
+## CodeRank:
+
+<img
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=italomauricio1&skills=Vue,C%2B%2B,C%23,SCSS,Svelte&width=820"
+/>
 
 ## :hammer_and_wrench: Languages and Tools: 
 <div>
