@@ -38,7 +38,9 @@
 
 ## CodeRank:
 
-<codersrank-skills-chart username="italomauricio1"></codersrank-skills-chart>
+<img
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=italomauricio1&skills=Python,TypeScript&show-other-skills=true"
+/>
 
 ## :hammer_and_wrench: Languages and Tools: 
 <div>
