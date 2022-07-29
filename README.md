@@ -44,11 +44,11 @@
 
 
 
-## :hammer_and_wrench: Languages and Tools: 
+## :hammer_and_wrench: Languages and Trophies: 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
   
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=italomauricio1&theme=onedark)](https://github.com/italomauricio1/github-profile-trophy)
 
 
 
