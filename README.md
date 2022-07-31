@@ -1,5 +1,5 @@
 
-### Hi there 👋, my name is Italo!                                                                         
+### Hi there 👋, my name is Italo!     <img align= "right" src= "https://komarev.com/ghpvc/?username=italomauricio1">                                                                    
 #### Welcome to my profile on GitHub! :grin: 
 **This is my programmer's corner, still under development :star:**
 
@@ -13,7 +13,7 @@
 
 **Enjoy...** :v:
 
-![](https://komarev.com/ghpvc/?username=your-github-italomauricio1)
+
 
 ### :calling: Contacts:
 <div>
