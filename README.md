@@ -5,7 +5,7 @@
 
 **There's a lot of work ahead! :hammer_and_wrench:**
 
-**I'm currently learning: Python and C **
+**I'm currently learning: Python and C**
 
 **I really like to learn new things :computer:**
 
