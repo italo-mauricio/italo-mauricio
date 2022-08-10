@@ -40,7 +40,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=italomauricio1&theme=dark)](https://git.io/streak-stats)
 
-![GitHub metrics](https://metrics.lecoq.io/italomauricio1)
+
 
 
 
