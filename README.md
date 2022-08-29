@@ -41,9 +41,6 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=italomauricio1&theme=dark)](https://git.io/streak-stats)
 
 
-
-
-
 ## :hammer_and_wrench: Languages and Trophies : 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
@@ -51,7 +48,6 @@
       
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=italomauricio1&theme=onedark)](https://github.com/italomauricio1/github-profile-trophy)
-
 
 
 ## :snake: Activities :
