@@ -1,5 +1,12 @@
+   
+<div>
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="300" />
+</div> <img align= "" src= "https://komarev.com/ghpvc/?username=italomauricio1">   
 
-### Hi there 👋, my name is Italo!  <img align= "right" src= "https://komarev.com/ghpvc/?username=italomauricio1">                                                                    
+   
+
+
+### Hi there 👋, my name is Italo!                                                                
 #### Welcome to my profile on GitHub! :grin: 
 **This is my programmer's corner, still under development :star:**
 
@@ -13,9 +20,7 @@
 
 **Enjoy...** :v:
 
-
-
-### :calling: Contacts:
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <div>
 
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/italomauricio1/)
