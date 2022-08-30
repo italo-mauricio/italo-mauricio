@@ -6,7 +6,7 @@
    
 
 
-### Hi there 👋, my name is Italo!                                                                
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> my name is Italo!                                                                
 #### Welcome to my profile on GitHub! :grin: 
 **This is my programmer's corner, still under development :star:**
 
