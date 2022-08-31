@@ -1,9 +1,9 @@
    
 <div>
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="300" />
-</div> <img align= "" src= "https://komarev.com/ghpvc/?username=italomauricio1">   
+</div> <p align=""> <img src="https://komarev.com/ghpvc/?username=italomauricio1&color=blue" alt="italomauricio1" /> </p> 
 
-   
+
 
 
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> my name is Italo!                                                                
