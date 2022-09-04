@@ -12,8 +12,6 @@
 
 **There's a lot of work ahead! :hammer_and_wrench:**
 
-**I'm currently learning: Python, C and Go**
-
 **I really like to learn new things :computer:**
 
 **I am currently Studying Information Systems - UFRN :student:**
@@ -56,7 +54,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" title="c" alt="c" width="45" height="45"/>&nbsp; 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" title="go" alt="go" width="60" height="60"/>&nbsp; 
-      
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" title="java" alt="java" width="70" height="70"/>&nbsp;
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=italomauricio1&theme=onedark)](https://github.com/italomauricio1/github-profile-trophy)
 
