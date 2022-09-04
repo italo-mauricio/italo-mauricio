@@ -50,7 +50,6 @@
 
 
 ## :hammer_and_wrench: Languages and Trophies : 
-<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" title="c" alt="c" width="45" height="45"/>&nbsp; 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" title="go" alt="go" width="60" height="60"/>&nbsp; 
