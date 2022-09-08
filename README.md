@@ -16,7 +16,7 @@
 
 **I am currently Studying Information Systems - UFRN :student:**
 
-**Enjoy...** :v:
+
 
 <h2> :calling: Contacts: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> </h2>
 <div>
