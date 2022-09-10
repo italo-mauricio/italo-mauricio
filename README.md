@@ -1,6 +1,6 @@
    
 <div>
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="300" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="450" height="300" />
 </div> <p align=""> <img src="https://komarev.com/ghpvc/?username=italomauricio1&color=blue" alt="italomauricio1" /> </p> 
 
 
@@ -8,13 +8,8 @@
 
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> my name is Italo!                                                                
 #### Welcome to my profile on GitHub! :grin: 
-**This is my programmer's corner, still under development :star:**
-
-**There's a lot of work ahead! :hammer_and_wrench:**
-
-**I really like to learn new things :computer:**
-
-**I am currently Studying Information Systems - UFRN :student:**
+This is my programmer's corner, still under development, I am currently Studying Information Systems - UFRN.
+I love Python, but i'm making new discoveries everyday. I hope you like the content below, and don't notice the mess :D
 
 
 
