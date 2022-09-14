@@ -1,7 +1,7 @@
    
 <div>
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="450" height="300" />
-</div> <p align=""> <img src="https://komarev.com/ghpvc/?username=italomauricio1&color=blue" alt="italomauricio1" /> </p> 
+</div> <p align=""> <img src="https://komarev.com/ghpvc/?username=italomauricio1&color=blue" alt="italo-mauricio" /> </p> 
 
 
 
@@ -24,7 +24,7 @@ I love Python, but i'm making new discoveries everyday. I hope you like the cont
 <a id="telegram" href="https://t.me/italomauricio1" target="_blank">
   ![Telegram](https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=26A5E4&logo=Telegram&logoColor=FFFFFF&label=)
  </a>
-   <a id="codersrank" href="https://profile.codersrank.io/user/italomauricio1" target="_blank">
+   <a id="codersrank" href="https://profile.codersrank.io/user/italo-mauricio" target="_blank">
     <img width="121" height="28" src="https://img.shields.io/static/v1?style=for-the-badge&message=CodersRank&color=67A4AC&logo=CodersRank&logoColor=FFFFFF&label=" alt="_" />
    </a>
 <a id="stackoverflow" href="https://pt.stackoverflow.com/users/299504/italo-mauricio" target="_blank">
@@ -35,13 +35,13 @@ I love Python, but i'm making new discoveries everyday. I hope you like the cont
 ## :fire: My Stats :
 
 <div>
-<a href="https://github.com/italomauricio1">
+<a href="https://github.com/italo-mauricio">
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=italomauricio1&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italomauricio1&layout=compact&langs_count=7&theme=highcontrast"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italo-mauricio&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=italomauricio1&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=italo-mauricio&theme=dark)](https://git.io/streak-stats)
 
 
 ## :hammer_and_wrench: Languages and Trophies : 
@@ -50,7 +50,7 @@ I love Python, but i'm making new discoveries everyday. I hope you like the cont
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" title="go" alt="go" width="60" height="60"/>&nbsp; 
 
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=italomauricio1&theme=onedark)](https://github.com/italomauricio1/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=italo-mauricio&theme=onedark)](https://github.com/italo-mauricio/github-profile-trophy)
 
 
 ## :snake: Activities :
