@@ -1,7 +1,8 @@
    
 <div>
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="450" height="300" />
-</div> <p align=""> <img src="https://komarev.com/ghpvc/?username=italomauricio1&color=blue" alt="italo-mauricio" /> </p> 
+   
+   ![Profile views](https://gpvc.arturio.dev/italo-mauricio)  ![Last Modified](https://img.shields.io/github/last-commit/italo-mauricio/italo-mauricio?style=flat)
 
 
 
