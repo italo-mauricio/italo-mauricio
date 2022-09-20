@@ -2,7 +2,7 @@
 <div>
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="450" height="300" />
    
-   ![Profile views](https://gpvc.arturio.dev/italo-mauricio)  ![Last Modified](https://img.shields.io/github/last-commit/italo-mauricio/italo-mauricio?style=flat)
+   ![Profile views](https://gpvc.arturio.dev/italo-mauricio)  
 
 
 
