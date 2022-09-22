@@ -1,4 +1,4 @@
-![header](https://indoanalytica.com/static/images/bannerr.gif)
+<img src="https://giffiles.alphacoders.com/209/209343.gif" width="1100" height="350"/>
    
    ![Profile views](https://gpvc.arturio.dev/italo-mauricio)  
 
