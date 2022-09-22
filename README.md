@@ -1,6 +1,4 @@
-   
-<div>
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="450" height="300" />
+<img align="right" src="https://www.iihglobal.com/wp-content/uploads/2019/02/dcsad-1.gif" width="450" height="450">
    
    ![Profile views](https://gpvc.arturio.dev/italo-mauricio)  
 
