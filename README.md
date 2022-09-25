@@ -24,9 +24,7 @@ I love Python, but i'm making new discoveries everyday. I hope you like the cont
 <a id="telegram" href="https://t.me/italomauricio1" target="_blank">
   ![Telegram](https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=26A5E4&logo=Telegram&logoColor=FFFFFF&label=)
  </a>
-   <a id="codersrank" href="https://profile.codersrank.io/user/italo-mauricio" target="_blank">
-    <img width="121" height="28" src="https://img.shields.io/static/v1?style=for-the-badge&message=CodersRank&color=67A4AC&logo=CodersRank&logoColor=FFFFFF&label=" alt="_" />
-   </a>
+[![CodersRank](https://img.shields.io/static/v1?style=for-the-badge&message=CodersRank&color=000000&logo=CodersRank&logoColor=28B463&label=)](https://profile.codersrank.io/user/italo-mauricio)
 <a id="stackoverflow" href="https://pt.stackoverflow.com/users/299504/italo-mauricio" target="_blank">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="_" />
   </a>
@@ -45,9 +43,12 @@ I love Python, but i'm making new discoveries everyday. I hope you like the cont
 
 
 ## :hammer_and_wrench: Languages and Trophies : 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" title="c" alt="c" width="45" height="45"/>&nbsp; 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" title="go" alt="go" width="60" height="60"/>&nbsp; 
+  ![Python](https://img.shields.io/badge/python-110B90?style=for-the-badge&logo=python&logoColor=BCBF00)
+  ![C](https://img.shields.io/static/v1?style=for-the-badge&message=C&color=222222&logo=C&logoColor=A8B9CC&label=)
+  ![Go](https://img.shields.io/badge/go-110B90?style=for-the-badge&logo=go&logoColor=BCBF00)
+  ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=D4AC0D&logo=Git&logoColor=FFFFFF&label=) 
+
+
 
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=italo-mauricio&theme=onedark)](https://github.com/italo-mauricio/github-profile-trophy)
