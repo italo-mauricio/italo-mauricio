@@ -7,7 +7,7 @@
 #### Welcome to my profile on GitHub! :grin: 
 This is my programmer's corner, still under development, I am currently Studying Information Systems - UFRN.
 I love Python, but i'm making new discoveries everyday. I hope you like the content below, and don't notice the mess :D
-#### Sou um estudante de Sistemas de Informação - UFRN, e um programador novato apenas em busca de conhecimento.
+
 
 
 
