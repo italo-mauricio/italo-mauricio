@@ -42,6 +42,7 @@ I love Python, but i'm making new discoveries everyday. I hope you like the cont
   ![Python](https://img.shields.io/badge/python-110B90?style=for-the-badge&logo=python&logoColor=BCBF00)
   ![C](https://img.shields.io/static/v1?style=for-the-badge&message=C&color=222222&logo=C&logoColor=A8B9CC&label=)
   ![Go](https://img.shields.io/badge/go-110B90?style=for-the-badge&logo=go&logoColor=BCBF00)
+  ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=D4AC0D&logo=Git&logoColor=FFFFFF&label=)
 
 
 
