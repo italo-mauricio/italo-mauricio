@@ -1,13 +1,12 @@
 ![Profile views](https://gpvc.arturio.dev/italo-mauricio) 
 
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> my name is Italo!  
+### Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> me chamo Italo!  
 
 
 
-#### Welcome to my profile on GitHub! :grin: 
-This is my programmer's corner, still under development, I am currently Studying Information Systems - UFRN.
-I love Python, but i'm making new discoveries everyday. I hope you like the content below, and don't notice the mess :D
+#### Bem Vindos ao meu GitHub! :grin: 
 
+Bem vindos ao meu perfil no Git, sou estudante de Sistemas de Informação na Universidade Federal do Rio Grande do Norte. Atualmente estou focado em fortalecer os alicerces da programação, especialmente usando as linguagens Python e C como base. Porém, pretendo ser desenvolvedor FullStack me especializando em outras linguagens. 
 
 
 
