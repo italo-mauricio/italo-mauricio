@@ -10,7 +10,11 @@ Bem vindos ao meu perfil no Git, sou estudante de Sistemas de Informação na Un
 
 
 
-
+<div>
+	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=italo-mauricio&show_icons=true&theme=vision-friendly-dark"/>
+	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italo-mauricio&layout=compact&theme=vision-friendly-dark"/>
+ 
+</div>
 <h2> :calling: Contacts: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> </h2>
 <div>
 
