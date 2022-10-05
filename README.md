@@ -1,4 +1,4 @@
-![Profile views](https://gpvc.arturio.dev/italo-mauricio)   <img align=right src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+![Profile views](https://gpvc.arturio.dev/italo-mauricio) <img align=right src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> my name is Italo!  
 
@@ -7,6 +7,7 @@
 #### Welcome to my profile on GitHub! :grin: 
 This is my programmer's corner, still under development, I am currently Studying Information Systems - UFRN.
 I love Python, but i'm making new discoveries everyday. I hope you like the content below, and don't notice the mess :D
+
 
 
 
@@ -24,10 +25,7 @@ I love Python, but i'm making new discoveries everyday. I hope you like the cont
   ![Telegram](https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=26A5E4&logo=Telegram&logoColor=FFFFFF&label=)
  </a>
 [![CodersRank](https://img.shields.io/static/v1?style=for-the-badge&message=CodersRank&color=000000&logo=CodersRank&logoColor=28B463&label=)](https://profile.codersrank.io/user/italo-mauricio)
-<a id="stackoverflow" href="https://pt.stackoverflow.com/users/299504/italo-mauricio" target="_blank">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="_" />
-  </a>
-</p>
+
 
 ## Status :
 
