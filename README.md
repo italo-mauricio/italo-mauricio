@@ -27,13 +27,7 @@ I love Python, but i'm making new discoveries everyday. I hope you like the cont
 [![CodersRank](https://img.shields.io/static/v1?style=for-the-badge&message=CodersRank&color=000000&logo=CodersRank&logoColor=28B463&label=)](https://profile.codersrank.io/user/italo-mauricio)
 
 
-<!-- ## Status :
 
-<div>
-	 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=italo-mauricio&show_icons=true&theme=vision-friendly-dark"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italo-mauricio&layout=compact&theme=vision-friendly-dark"/> -->
- 
-</div>
 
 
 ## :man_technologist: Languages and Trophies :  
