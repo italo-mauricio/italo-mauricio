@@ -1,4 +1,5 @@
-![Profile views](https://gpvc.arturio.dev/italo-mauricio) 
+[![](https://visitcount.itsvg.in/api?id=italo-mauricio&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
+
 
 ### Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> me chamo Italo!  
 
@@ -12,10 +13,14 @@ Bem vindos ao meu perfil no Git, sou estudante de Sistemas de Informação na Un
 ## Status:
 
 <div>
-	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=italo-mauricio&show_icons=true&theme=vision-friendly-dark"/>
-	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italo-mauricio&layout=compact&theme=vision-friendly-dark"/>
- 
+	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=italo-mauricio&theme=react&hide_border=false&include_all_commits=true&count_private=true"/>
+	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italo-mauricio&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+	
 </div>
+
+<img align="center" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=italo-mauricio&theme=react&hide_border=false&include_all_commits=true&count_private=true" />
+
+
 <h2> :calling: Contacts: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> </h2>
 <div>
 
