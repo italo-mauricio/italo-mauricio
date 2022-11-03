@@ -13,9 +13,9 @@ Bem vindos ao meu perfil no Git, sou estudante de Sistemas de Informação na Un
 
 ## Status:
 
-<div>
-	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=italo-mauricio&theme=react&hide_border=false&include_all_commits=true&count_private=true"/>
-	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italo-mauricio&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=italo-mauricio&langs_count=9&theme=react&hide_border=true&locale=pt-br" align="right"/>
+</a>
 
 </div>
 
