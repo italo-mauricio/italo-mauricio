@@ -13,14 +13,11 @@ Bem vindos ao meu perfil no Git, sou estudante de Sistemas de Informação na Un
 
 ## Status:
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=italo-mauricio&langs_count=9&theme=react&hide_border=true&locale=pt-br" align="right"/>
-</a>
+|![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=italo-mauricio&theme=github_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=italo-mauricio&theme=github_dark&utcOffset=8)|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=italo-mauricio&theme=github_dark)|
 
 </div>
 
-<img align="center" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=italo-mauricio&theme=react&hide_border=false&include_all_commits=true&count_private=true" />
-
+|![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=italo-mauricio&theme=github_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=italo-mauricio&theme=github_dark)|![bylickilabs's Stats](https://github-readme-stats.vercel.app/api?username=italo-mauricio&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)|
 
 <h2> :calling: Contacts: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> </h2>
 <div>
