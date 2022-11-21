@@ -13,7 +13,7 @@ Bem vindos ao meu perfil no Git, sou estudante de Sistemas de Informação na Un
 
 ## Status:
 
-|![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=italo-mauricio&theme=github_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=italo-mauricio&theme=github_dark&utcOffset=8)|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=italo-mauricio&theme=github_dark)|
+|![](https://github-readme-streak-stats.herokuapp.com/?user=italo-mauricio&theme=vue-dark&hide_border=false)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=italo-mauricio&theme=github_dark&utcOffset=8)|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=italo-mauricio&theme=github_dark)|
 |---|---|---|
 |![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=italo-mauricio&theme=github_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=italo-mauricio&theme=github_dark)|![italo-mauricio's Stats](https://github-readme-stats.vercel.app/api?username=italo-mauricio&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)|
 ---
