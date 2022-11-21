@@ -36,27 +36,40 @@ Bem vindos ao meu perfil no Git, sou estudante de Sistemas de Informação na Un
  </a>
 [![CodersRank](https://img.shields.io/static/v1?style=for-the-badge&message=CodersRank&color=000000&logo=CodersRank&logoColor=28B463&label=)](https://profile.codersrank.io/user/italo-mauricio)
 
-
-
-
-
-## :man_technologist: Languages and Trophies :  
-  ![Python](https://img.shields.io/badge/python-110B90?style=for-the-badge&logo=python&logoColor=BCBF00)
-  ![C](https://img.shields.io/static/v1?style=for-the-badge&message=C&color=222222&logo=C&logoColor=A8B9CC&label=)
-  ![Go](https://img.shields.io/badge/go-110B90?style=for-the-badge&logo=go&logoColor=BCBF00)
-  ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=D4AC0D&logo=Git&logoColor=FFFFFF&label=)
-  ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)
-  ![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=)
-  ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
-  ![Rust](https://img.shields.io/static/v1?style=for-the-badge&message=Rust&color=222222&logo=Rust&logoColor=F7DF1E&label=)
-
-
-
-
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=italo-mauricio&theme=onedark)](https://github.com/italo-mauricio/github-profile-trophy)
 
 
 ## :snake: Activities :
 
 ![Snake animation](https://github.com/italomauricio1/italo-mauricio/blob/output/github-contribution-grid-snake.svg)
+ 
+<summary>Languages, Dev Tools & More:</summary>
+<br>
+<ul><li>
+<details>
+<summary>Languages</summary>
+<br>
+<img src="https://img.shields.io/badge/python-110B90?style=for-the-badge&logo=python&logoColor=BCBF00">
+<img src="https://img.shields.io/static/v1?style=for-the-badge&message=C&color=222222&logo=C&logoColor=A8B9CC&label=">
+<img src="https://img.shields.io/static/v1?style=for-the-badge&message=rust&color=00599C&logo=rust&logoColor=FFFFFF&label=">
+<img src="https://img.shields.io/badge/go-%23ED0000.svg?style=for-the-badge&logo=go&logoColor=white">
+<img src="https://img.shields.io/static/v1?style=for-the-badge&message=javascript&color=CF0677&logo=javascript&logoColor=FFFFFF&label=">
+<img src="https://img.shields.io/badge/html5-%23ED0000.svg?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/css3-%23ED0000.svg?style=for-the-badge&logo=css3&logoColor=white">
+<br>
+ 
+</details></li>
+<li>
+<details>
+<summary>other</summary>
+<br>
+<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=D4AC0D&logo=Git&logoColor=FFFFFF&label=">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
+</details></li></ul>
+</details>
+
+
+
+
+
