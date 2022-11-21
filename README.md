@@ -14,13 +14,9 @@ Bem vindos ao meu perfil no Git, sou estudante de Sistemas de Informação na Un
 ## Status:
 
 |![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=italo-mauricio&theme=github_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=italo-mauricio&theme=github_dark&utcOffset=8)|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=italo-mauricio&theme=github_dark)|
-
-</div>
-
-|![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=italo-mauricio&theme=github_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=italo-mauricio&theme=github_dark)|
-
-<h2> :calling: Contacts: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> </h2>
-<div>
+|---|---|---|
+|![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=italo-mauricio&theme=github_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=italo-mauricio&theme=github_dark)|![italo-mauricio's Stats](https://github-readme-stats.vercel.app/api?username=italo-mauricio&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)|
+---
 
 
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/italomauricio1/)
@@ -61,7 +57,7 @@ Bem vindos ao meu perfil no Git, sou estudante de Sistemas de Informação na Un
 </details></li>
 <li>
 <details>
-<summary>other</summary>
+<summary>others</summary>
 <br>
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=D4AC0D&logo=Git&logoColor=FFFFFF&label=">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
