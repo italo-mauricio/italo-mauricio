@@ -6,7 +6,8 @@
 
 
 
-#### Bem Vindos ao meu GitHub! :grin: 
+#### Bem Vindos ao meu GitHub! :grin:
+   Me chamo Italo, sou estudante de Sistemas de Informação, atualmente estou focado em desenvolver minhas skills de programação.
 
 
 
