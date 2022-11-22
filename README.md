@@ -8,7 +8,6 @@
 
 #### Bem Vindos ao meu GitHub! :grin: 
 
-Bem vindos ao meu perfil no Git, sou estudante de Sistemas de Informação na Universidade Federal do Rio Grande do Norte. Atualmente estou focado em fortalecer os alicerces da programação, especialmente usando as linguagens Python e C como base. Porém, pretendo ser desenvolvedor FullStack me especializando em outras linguagens. 
 
 
 ## Status:
