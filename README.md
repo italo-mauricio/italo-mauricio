@@ -12,11 +12,14 @@
 
 ## Status:
 
-|![](https://github-readme-streak-stats.herokuapp.com/?user=italo-mauricio&theme=vue-dark&hide_border=false)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=italo-mauricio&theme=github_dark&utcOffset=8)|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=italo-mauricio&theme=github_dark)|
-|---|---|---|
-|![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=italo-mauricio&theme=github_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=italo-mauricio&theme=github_dark)|![italo-mauricio's Stats](https://github-readme-stats.vercel.app/api?username=italo-mauricio&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)|
----
+|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=italo-mauricio&theme=github_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=italo-mauricio&theme=github_dark&utcOffset=8)|
+|---|---|
+<br> 
+    
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=italo-mauricio&theme=vue-dark&hide_border=false)|![italo-mauricio's Stats](https://github-readme-stats.vercel.app/api?username=italo-mauricio&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)!
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=italo-mauricio&theme=github_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=italo-mauricio&theme=github_dark)
 
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/italomauricio1/)
 <a href = "mailto:italogithub@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
