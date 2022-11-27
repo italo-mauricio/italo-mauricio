@@ -24,6 +24,8 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=italo-mauricio&theme=github_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=italo-mauricio&theme=github_dark)
 
+<h2><img src="https://media.giphy.com/media/mpM654sL8gJumwGmAn/giphy.gif" width="30px" height="30px"> Contacts:</h2>
+
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/italomauricio1/)
 <a href = "mailto:italogithub@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a id="twitter" href="https://twitter.com/aIowny" target="_blank">
@@ -37,6 +39,19 @@
  </a>
 [![CodersRank](https://img.shields.io/static/v1?style=for-the-badge&message=CodersRank&color=000000&logo=CodersRank&logoColor=28B463&label=)](https://profile.codersrank.io/user/italo-mauricio)
 
+<h2><img src="https://media.giphy.com/media/tZIxqCNZhC9YKasYf7/giphy.gif" width="35px" height="35px">Skills:</h2>
+
+  ![Python](https://img.shields.io/badge/python-110B90?style=for-the-badge&logo=python&logoColor=BCBF00)
+  ![Java](https://img.shields.io/static/v1?style=for-the-badge&message=java&color=222222&logo=java&logoColor=F7DF1E&label=)
+  ![C](https://img.shields.io/static/v1?style=for-the-badge&message=C&color=222222&logo=C&logoColor=A8B9CC&label=)
+  ![Go](https://img.shields.io/badge/go-110B90?style=for-the-badge&logo=go&logoColor=BCBF00)
+  ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=D4AC0D&logo=Git&logoColor=FFFFFF&label=)
+  ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)
+  ![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=)
+  ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
+  
+
+## Thropies:
 [![trophy](https://github-profile-trophy.vercel.app/?username=italo-mauricio&theme=onedark)](https://github.com/italo-mauricio/github-profile-trophy)
 
 
@@ -44,31 +59,7 @@
 
 ![Snake animation](https://github.com/italomauricio1/italo-mauricio/blob/output/github-contribution-grid-snake.svg)
  
-<summary>Languages, Dev Tools & More:</summary>
-<br>
-<ul><li>
-<details>
-<summary>Languages</summary>
-<br>
-<img src="https://img.shields.io/badge/python-110B90?style=for-the-badge&logo=python&logoColor=BCBF00">
-<img src="https://img.shields.io/static/v1?style=for-the-badge&message=C&color=222222&logo=C&logoColor=A8B9CC&label=">
-<img src="https://img.shields.io/static/v1?style=for-the-badge&message=rust&color=00599C&logo=rust&logoColor=FFFFFF&label=">
-<img src="https://img.shields.io/badge/go-%23ED0000.svg?style=for-the-badge&logo=go&logoColor=white">
-<img src="https://img.shields.io/static/v1?style=for-the-badge&message=javascript&color=CF0677&logo=javascript&logoColor=FFFFFF&label=">
-<img src="https://img.shields.io/badge/html5-%23ED0000.svg?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/css3-%23ED0000.svg?style=for-the-badge&logo=css3&logoColor=white">
-<br>
- 
-</details></li>
-<li>
-<details>
-<summary>others</summary>
-<br>
-<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=D4AC0D&logo=Git&logoColor=FFFFFF&label=">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
-</details></li></ul>
-</details>
+
 
 
 
