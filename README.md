@@ -1,12 +1,13 @@
 [![](https://visitcount.itsvg.in/api?id=italo-mauricio&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 
-### Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> me chamo Italo!  
+### Hi !<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  
 
 
 
-#### Bem Vindos ao meu GitHub! :grin:
-   Me chamo Italo, sou estudante de Sistemas de Informação, atualmente estou focado em desenvolver minhas skills de programação.
+### Welcome to my GitHub! :grin:
+   
+  #### Hello, my name is Italo, I'm a student of information systems in Federal University of Rio Grande do Norte, currently i'm focused on developing my skills in programming;
 
 
 
