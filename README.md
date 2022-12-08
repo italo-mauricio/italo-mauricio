@@ -1,4 +1,4 @@
-[![](https://visitcount.itsvg.in/api?id=italo-mauricio&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=italo-mauricio&label=Profile%20Views&color=11&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 
 ### Hi, accept a coffee ☕?
@@ -11,16 +11,16 @@
 
 ## Status:
 
-|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=italo-mauricio&theme=github_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=italo-mauricio&theme=github_dark&utcOffset=8)|
+|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=italo-mauricio&theme=dracula)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=italo-mauricio&theme=dracula&utcOffset=8)|
 |---|---|
 <br> 
 
 
-|![](https://github-readme-streak-stats.herokuapp.com/?user=italo-mauricio&theme=vue-dark&hide_border=false)|![italo-mauricio's Stats](https://github-readme-stats.vercel.app/api?username=italo-mauricio&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+|![](https://github-readme-streak-stats.herokuapp.com/?user=italo-mauricio&theme=dracula&hide_border=false)|![italo-mauricio's Stats](https://github-readme-stats.vercel.app/api?username=italo-mauricio&theme=dracula&show_icons=true&hide_border=true&count_private=true)
 |---|---|
 <br>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=italo-mauricio&theme=github_dark)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=italo-mauricio&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=italo-mauricio&theme=dracula)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=italo-mauricio&theme=dracula)
 
 <h2><img src="https://media.giphy.com/media/mpM654sL8gJumwGmAn/giphy.gif" width="30px" height="30px"> Contacts:</h2>
 
