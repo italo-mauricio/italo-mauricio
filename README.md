@@ -17,11 +17,11 @@
 <br> 
 
 
-|![](https://github-readme-streak-stats.herokuapp.com/?user=italo-mauricio&theme=vue-dark&hide_border=false)|![italo-mauricio's Stats](https://github-readme-stats.vercel.app/api?username=italo-mauricio&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)|
+|![](https://github-readme-streak-stats.herokuapp.com/?user=italo-mauricio&theme=vue-dark&hide_border=false)|![italo-mauricio's Stats](https://github-readme-stats.vercel.app/api?username=italo-mauricio&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 |---|---|
 <br>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=italo-mauricio&theme=github_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=italo-mauricio&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=italo-mauricio&theme=github_dark)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=italo-mauricio&theme=github_dark)
 
 <h2><img src="https://media.giphy.com/media/mpM654sL8gJumwGmAn/giphy.gif" width="30px" height="30px"> Contacts:</h2>
 
