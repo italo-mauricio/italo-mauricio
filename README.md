@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
     <img src="https://komarev.com/ghpvc/?username=italo-mauricio&color=0079fa&style=flat-square&label=Profile+Views" alt="profile view counter">
 </p> <br>
 
