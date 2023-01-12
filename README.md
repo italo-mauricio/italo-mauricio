@@ -52,9 +52,14 @@
   ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
 
 
-<h2><img src="https://media4.giphy.com/media/PkY30am44byuuKIhxC/giphy.gif?cid=ecf05e47yz164j6jaxp6kt6427gf2gj0wutqvmvapgpo1atu&rid=giphy.gif&ct=g" width="35px" height="35px"> Trophies:</h2>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=italo-mauricio&theme=onedark)](https://github.com/italo-mauricio/github-profile-trophy)
+<div align="center">
+
+  <h2><img src="https://media4.giphy.com/media/PkY30am44byuuKIhxC/giphy.gif?cid=ecf05e47yz164j6jaxp6kt6427gf2gj0wutqvmvapgpo1atu&rid=giphy.gif&ct=g" width="35px" height="35px"> Trophies:</h2>
+  <img src="https://github-profile-trophy.vercel.app/?username=italo-mauricio&theme=gruvbox&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  /> <br> <br>
+ 
+  
+</div> <br>
 
 
 ## :snake: Activities :
