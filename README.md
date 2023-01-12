@@ -1,7 +1,10 @@
-[![](https://visitcount.itsvg.in/api?id=italo-mauricio&label=Profile%20Views&color=11&icon=5&pretty=false)](https://visitcount.itsvg.in)
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=italo-mauricio&color=0079fa&style=flat-square&label=Profile+Views" alt="profile view counter">
+</p> <br>
 
 
-### Hi, accept a coffee ☕?
+<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Italo+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Italo Welcome to my Profile! animated typed out">
+<img  src="assests/borderseperator.gif">
 
 
 
