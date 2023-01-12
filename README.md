@@ -40,7 +40,9 @@
  </a>
 [![CodersRank](https://img.shields.io/static/v1?style=for-the-badge&message=CodersRank&color=000000&logo=CodersRank&logoColor=28B463&label=)](https://profile.codersrank.io/user/italo-mauricio)
 
+<div align="left">
 <h2><img src="https://media.giphy.com/media/tZIxqCNZhC9YKasYf7/giphy.gif" width="35px" height="35px">Skills:</h2>
+</div> <br>
 
   ![Python](https://img.shields.io/badge/python-110B90?style=for-the-badge&logo=python&logoColor=BCBF00)
   ![Java](https://img.shields.io/static/v1?style=for-the-badge&message=java&color=222222&logo=java&logoColor=F7DF1E&label=)
@@ -53,7 +55,7 @@
 
 
 
-<div align="center">
+<div align="left">
 
   <h2><img src="https://media4.giphy.com/media/PkY30am44byuuKIhxC/giphy.gif?cid=ecf05e47yz164j6jaxp6kt6427gf2gj0wutqvmvapgpo1atu&rid=giphy.gif&ct=g" width="35px" height="35px"> Trophies:</h2>
   <img src="https://github-profile-trophy.vercel.app/?username=italo-mauricio&theme=gruvbox&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  /> <br> <br>
