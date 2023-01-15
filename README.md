@@ -1,7 +1,8 @@
-<p align="left">
-    <img src="https://komarev.com/ghpvc/?username=italo-mauricio&color=0079fa&style=flat-square&label=Profile+Views" alt="profile view counter">
-</p> <br>
-
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=italo-mauricio.italo-mauricio" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •  
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/italo-mauricio?label=Followers&style=social"> •   
+  <img src="https://img.shields.io/github/stars/italo-mauricio?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
+</p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Italo+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Italo Welcome to my Profile! animated typed out">
 <img  src="assests/borderseperator.gif">
@@ -44,14 +45,14 @@
 <h2><img src="https://media.giphy.com/media/tZIxqCNZhC9YKasYf7/giphy.gif" width="35px" height="35px">Skills:</h2>
 </div> <br>
 
-  ![Python](https://img.shields.io/badge/python-110B90?style=for-the-badge&logo=python&logoColor=BCBF00)
-  ![Java](https://img.shields.io/static/v1?style=for-the-badge&message=java&color=222222&logo=java&logoColor=F7DF1E&label=)
-  ![C](https://img.shields.io/static/v1?style=for-the-badge&message=C&color=222222&logo=C&logoColor=A8B9CC&label=)
-  ![Go](https://img.shields.io/badge/go-110B90?style=for-the-badge&logo=go&logoColor=BCBF00)
-  ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=D4AC0D&logo=Git&logoColor=FFFFFF&label=)
-  ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)
-  ![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=)
-  ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
+  <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+  <code><img height="40" width="40" src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png"></code>
+  <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
+  <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
+  <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+  <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
+  <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code>
+
 
 
 
