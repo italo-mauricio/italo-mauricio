@@ -39,7 +39,9 @@
 <a id="telegram" href="https://t.me/italomauricio1" target="_blank">
   ![Telegram](https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=26A5E4&logo=Telegram&logoColor=FFFFFF&label=)
  </a>
-[![CodersRank](https://img.shields.io/static/v1?style=for-the-badge&message=CodersRank&color=000000&logo=CodersRank&logoColor=28B463&label=)](https://profile.codersrank.io/user/italo-mauricio)
+<a id="coderank" href="https://profile.codersrank.io/user/italo-mauricio" target="_blank">
+   ![CodersRank](https://img.shields.io/static/v1?style=for-the-badge&message=CodersRank&color=000000&logo=CodersRank&logoColor=28B463&label=)
+</a>
 
 <div align="left">
 <h2><img src="https://media.giphy.com/media/tZIxqCNZhC9YKasYf7/giphy.gif" width="35px" height="35px">Skills:</h2>
