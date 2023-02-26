@@ -12,7 +12,7 @@
 
 ### Welcome to my GitHub! :grin:
    
-#### Hello, my name is Italo, I'm a student of information systems in Federal University of Rio Grande do Norte, currently i'm focused on developing my skills in programming. I am currently studying HTML5, CSS3, Javascript and Java.
+#### Hello, my name is Italo, I'm a student of information systems in Federal University of Rio Grande do Norte, currently i'm focused on developing my skills in programming. I am currently studying OOP (Object-Oriented Programming) with Java.
 
 ## Status:
 
