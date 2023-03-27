@@ -41,7 +41,7 @@
   ![Telegram](https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=000000&logo=Telegram&logoColor=FFFFFF&label=)
  </a>
 <a id="coderank" href="https://profile.codersrank.io/user/italo-mauricio" target="_blank">
-   ![CodersRank](https://img.shields.io/static/v1?style=for-the-badge&message=CodersRank&color=000000&logo=CodersRank&logoColor=28B463&label=)
+   ![CodersRank](https://img.shields.io/static/v1?style=for-the-badge&message=CodersRank&color=000000&logo=CodersRank&logoColor=white&label=)
 </a>
 
 
