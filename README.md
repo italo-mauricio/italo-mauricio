@@ -31,16 +31,16 @@
 
 [<img src = "https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=000000&logo=Instagram&logoColor=FFFFFF&label=">](https://www.instagram.com/italomauricio1/)
 <a href = "mailto:italogithub@gmail.com"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=000000&logo=Gmail&logoColor=FFFFFF&label=" target="_blank"></a>
-<a id="twitter" href="https://twitter.com/italozip" target="_blank">
-<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=000000&logo=Twitter&logoColor=FFFFFF&label=" alt="_" />
+<a id="twitter" href="https://twitter.com/italozip">
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=000000&logo=Twitter&logoColor=FFFFFF&label="/>
 </a>
- <a id="linkedin" href="https://www.linkedin.com/in/italo-mauricio" target="_blank">
-    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Linkedin&color=000000&logo=Linkedin&logoColor=FFFFFF&label=" alt="_" />
-  </a>
-<a id="telegram" href="https://t.me/italomauricio1" target="_blank">
+ <a id="linkedin" href="https://www.linkedin.com/in/italo-mauricio">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Linkedin&color=000000&logo=Linkedin&logoColor=FFFFFF&label="/>
+</a>
+<a id="telegram" href="https://t.me/italomauricio1">
   ![Telegram](https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=000000&logo=Telegram&logoColor=FFFFFF&label=)
  </a>
-<a id="coderank" href="https://profile.codersrank.io/user/italo-mauricio" target="_blank">
+<a id="coderank" href="https://profile.codersrank.io/user/italo-mauricio">
    ![CodersRank](https://img.shields.io/static/v1?style=for-the-badge&message=CodersRank&color=000000&logo=CodersRank&logoColor=white&label=)
 </a>
 
