@@ -29,16 +29,16 @@
 
 <h2><img src="https://media.giphy.com/media/mpM654sL8gJumwGmAn/giphy.gif" width="30px" height="30px"> Contacts:</h2>
 
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/italomauricio1/)
-<a href = "mailto:italogithub@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+[<img src = "https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=000000&logo=Instagram&logoColor=FFFFFF&label=">](https://www.instagram.com/italomauricio1/)
+<a href = "mailto:italogithub@gmail.com"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=000000&logo=Gmail&logoColor=FFFFFF&label=" target="_blank"></a>
 <a id="twitter" href="https://twitter.com/italozip" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="_" />
+<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=000000&logo=Twitter&logoColor=FFFFFF&label=" alt="_" />
 </a>
  <a id="linkedin" href="https://www.linkedin.com/in/italo-mauricio" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="_" />
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Linkedin&color=000000&logo=Linkedin&logoColor=FFFFFF&label=" alt="_" />
   </a>
 <a id="telegram" href="https://t.me/italomauricio1" target="_blank">
-  ![Telegram](https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=26A5E4&logo=Telegram&logoColor=FFFFFF&label=)
+  ![Telegram](https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=000000&logo=Telegram&logoColor=FFFFFF&label=)
  </a>
 <a id="coderank" href="https://profile.codersrank.io/user/italo-mauricio" target="_blank">
    ![CodersRank](https://img.shields.io/static/v1?style=for-the-badge&message=CodersRank&color=000000&logo=CodersRank&logoColor=28B463&label=)
