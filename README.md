@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://wakatime.com/badge/user/65d2f429-0fff-4030-bb0c-babf96b02db1.svg" alt="waka"> • 
-  <img src="https://visitor-badge.glitch.me/badge?page_id=italo-mauricio.italo-mauricio" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •  
+  <img src="https://komarev.com/ghpvc/?username=italo-mauricio&color=blue" alt="italo-mauricio"> •  
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/italo-mauricio?label=Followers&style=social"> •   
   <img src="https://img.shields.io/github/stars/italo-mauricio?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 </p>
