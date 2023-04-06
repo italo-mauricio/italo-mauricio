@@ -100,11 +100,6 @@
 ![Snake animation](https://github.com/italomauricio1/italo-mauricio/blob/output/github-contribution-grid-snake.svg)
 
 
-<div align="center">
-
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31yd3zbwbu3rlhp4h3zwuniqcv7m&count=1)
-
-</div>  
 
 
 
