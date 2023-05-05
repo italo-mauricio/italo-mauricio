@@ -16,7 +16,7 @@
 
 ## Status:
 
-|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=italo-mauricio&theme=outrun)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=italo-mauricio&theme=outrunk&utcOffset=-3)|
+|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=italo-mauricio&theme=outrun)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=italo-mauricio&theme=outrun&utcOffset=-3)|
 |---|---|
 <br> 
 
