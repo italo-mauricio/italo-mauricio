@@ -37,9 +37,6 @@
  <a id="linkedin" href="https://www.linkedin.com/in/italo-mauricio">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a id="telegram" href="https://t.me/italomauricio1">
-  ![Telegram](https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=000000&logo=Telegram&logoColor=FFFFFF&label=)
- </a>
 <a id="coderank" href="https://profile.codersrank.io/user/italo-mauricio">
    ![CodersRank](https://img.shields.io/static/v1?style=for-the-badge&message=CodersRank&color=67A4AC&logo=CodersRank&logoColor=FFFFFF&label=)
 </a>
