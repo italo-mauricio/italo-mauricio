@@ -16,16 +16,16 @@
 
 ## Status:
 
-|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=italo-mauricio&theme=monokai)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=italo-mauricio&theme=monokai&utcOffset=-3)|
+|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=italo-mauricio&theme=moltack)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=italo-mauricio&theme=moltack&utcOffset=-3)|
 |---|---|
 <br> 
 
 
-|![](https://github-readme-streak-stats.herokuapp.com/?user=italo-mauricio&theme=monokai&hide_border=false)|![italo-mauricio's Stats](https://github-readme-stats.vercel.app/api?username=italo-mauricio&theme=monokai&show_icons=true&hide_border=true&count_private=true)
+|![](https://github-readme-streak-stats.herokuapp.com/?user=italo-mauricio&theme=moltack&hide_border=false)|![italo-mauricio's Stats](https://github-readme-stats.vercel.app/api?username=italo-mauricio&theme=moltack&show_icons=true&hide_border=true&count_private=true)
 |---|---|
 <br>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=italo-mauricio&theme=monokai)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=italo-mauricio&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=italo-mauricio&theme=moltack)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=italo-mauricio&theme=moltack)
 
 <h2><img src="https://media.giphy.com/media/mpM654sL8gJumwGmAn/giphy.gif" width="30px" height="30px"> Contacts:</h2>
 
