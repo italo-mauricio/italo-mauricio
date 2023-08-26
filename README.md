@@ -1,8 +1,5 @@
-<p align="center">
-  <img src="https://wakatime.com/badge/user/65d2f429-0fff-4030-bb0c-babf96b02db1.svg" alt="waka"> • 
-  <img src="https://komarev.com/ghpvc/?username=italo-mauricio&color=blue" alt="italo-mauricio"> •  
-  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/italo-mauricio?label=Followers&style=social"> •   
-  <img src="https://img.shields.io/github/stars/italo-mauricio?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
+<p align="right">
+  <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fitalo-mauricio"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fitalo-mauricio&label=Profile%20Views&labelColor=%23ffe4c8&countColor=%2386092c&style=flat" /></a>
 </p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Italo+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Italo Welcome to my Profile! animated typed out">
@@ -11,6 +8,7 @@
 
 
 ### Welcome to my GitHub! :grin:
+<img src="https://wakatime.com/badge/user/65d2f429-0fff-4030-bb0c-babf96b02db1.svg?style=social" alt="waka">
    
 #### Hello, my name is Italo, I'm a student of information systems in Federal University of Rio Grande do Norte, currently i'm focused on developing my skills in programming. I am currently working with Java and PostGreSQL on Mertins Technology's.
 
