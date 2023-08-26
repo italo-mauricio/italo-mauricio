@@ -6,9 +6,11 @@
 <img  src="assests/borderseperator.gif">
 
 
+<p align="center">
+  <img src="https://wakatime.com/badge/user/65d2f429-0fff-4030-bb0c-babf96b02db1.svg?style=social" alt="waka">
+</p>
 
 ### Welcome to my GitHub! :grin:
-<img src="https://wakatime.com/badge/user/65d2f429-0fff-4030-bb0c-babf96b02db1.svg?style=social" alt="waka">
    
 #### Hello, my name is Italo, I'm a student of information systems in Federal University of Rio Grande do Norte, currently i'm focused on developing my skills in programming. I am currently working with Java and PostGreSQL on Mertins Technology's.
 
