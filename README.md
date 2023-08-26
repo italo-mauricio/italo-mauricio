@@ -94,7 +94,7 @@
 
 ## :snake: Activities :
 
-![snake animation](https://github.com/<italo-mauricio>/<italo-mauricio>/blob/output/github-contribution-grid-snake2.svg)
+![Snake animation](https://github.com/MauricioMucci/MauricioMucci/blob/output/github-contribution-grid-snake.svg)
 
 
 
