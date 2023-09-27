@@ -92,10 +92,6 @@
 </div> <br>
 
 
-## :snake: Activities :
-
-![Snake animation](https://github.com/MauricioMucci/MauricioMucci/blob/output/github-contribution-grid-snake.svg)
-
 
 
 
