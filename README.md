@@ -1,105 +1,130 @@
-<p align="right">
-  <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fitalo-mauricio"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fitalo-mauricio&label=Profile%20Views&labelColor=%23ffe4c8&countColor=%2386092c&style=flat" /></a>
-</p>
-
-<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Italo+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Italo Welcome to my Profile! animated typed out">
-<img  src="assests/borderseperator.gif">
-
+# 🌌 Ítalo Maurício
 
 <p align="center">
-  <img src="https://wakatime.com/badge/user/65d2f429-0fff-4030-bb0c-babf96b02db1.svg?style=social" alt="waka">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=34&duration=2500&pause=1200&color=7DD3FC&center=true&vCenter=true&width=900&lines=Backend+Developer;Java+%7C+PostgreSQL+%7C+Vue;Information+Systems+Student;Always+building+something+cool" alt="Typing SVG" />
 </p>
 
-### Welcome to my GitHub! :grin:
-   
-#### Hello, my name is Italo, I'm a student of information systems in Federal University of Rio Grande do Norte, currently i'm focused on developing my skills in programming. I am currently working with Java and PostGreSQL on Mertins Technology's.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:0F172A&height=220&section=header&text=Welcome%20to%20my%20GitHub&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+</p>
 
+<p align="center">
+  <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fitalo-mauricio">
+    <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fitalo-mauricio&label=Profile%20Views&labelColor=%230f172a&countColor=%2338bdf8&style=flat" />
+  </a>
 
-## Status:
+  <a href="https://wakatime.com/@65d2f429-0fff-4030-bb0c-babf96b02db1">
+    <img src="https://wakatime.com/badge/user/65d2f429-0fff-4030-bb0c-babf96b02db1.svg?style=flat-square" />
+  </a>
+</p>
 
-|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=italo-mauricio&theme=tokyonight)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=italo-mauricio&theme=tokyonight&utcOffset=-3)|
-|---|---|
-<br> 
+---
 
+# 👨‍💻 About Me
 
-|![](https://github-readme-streak-stats.herokuapp.com/?user=italo-mauricio&theme=tokyonight&hide_border=false)|![italo-mauricio's Stats](https://github-readme-stats.vercel.app/api?username=italo-mauricio&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-|---|---|
-<br>
+```java
+public class ItaloMauricio {
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=italo-mauricio&theme=tokyonight)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=italo-mauricio&theme=tokyonight)
+    String role = "Backend Developer";
+    String university = "Federal University of Rio Grande do Norte";
+    String currentFocus = "Java + PostgreSQL + APIs + Clean Code";
 
-<h2>
-  <img src="https://media4.giphy.com/media/PkY30am44byuuKIhxC/giphy.gif?cid=ecf05e47yz164j6jaxp6kt6427gf2gj0wutqvmvapgpo1atu&rid=giphy.gif&ct=g" width="35px" height="35px"> 
-  Trophies:
-</h2>
+    String[] technologies = {
+        "Java",
+        "Spring",
+        "PostgreSQL",
+        "Vue",
+        "Flutter",
+        "TypeScript"
+    };
 
-<img src="https://github-profile-trophy.vercel.app/?username=italo-mauricio&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  />
+    boolean lovesBackend = true;
+    boolean drinksCoffeeWhileCoding = true;
 
+    void keepLearning() {
+        System.out.println("Always evolving 🚀");
+    }
+}
+```
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
 
-<h2><img src="https://media.giphy.com/media/mpM654sL8gJumwGmAn/giphy.gif" width="30px" height="30px"> Contacts:</h2>
+# ⚡ Current Journey
 
-[<img src = "https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/italomauricio1/)
-<a href = "mailto:italogithub@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a id="linkedin" href="https://www.linkedin.com/in/italo-mauricio">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a id="coderank" href="https://profile.codersrank.io/user/italo-mauricio">
-   ![CodersRank](https://img.shields.io/static/v1?style=for-the-badge&message=CodersRank&color=67A4AC&logo=CodersRank&logoColor=FFFFFF&label=)
-</a>
+* 🎓 Information Systems student at UFRN
+* 💼 Working with Java and PostgreSQL
+* 🔥 Passionate about backend architecture and APIs
+* 🧠 Always trying to improve code quality and performance
+* 🎮 I enjoy creating personal projects and experimenting with new ideas
+* 🚀 Focused on becoming a highly skilled software engineer
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
 
-<h2><img src="https://media.giphy.com/media/tZIxqCNZhC9YKasYf7/giphy.gif" width="35px" height="35px">Skills:</h2>
+# 🛠️ Tech Stack
 
-<table align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,ts,js,vue,flutter,dart,python,html,css,git,github,vscode,idea&theme=dark" />
+</p>
 
-  <tr>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
-      </a>
-      <br>Java
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-      <br>Typescript
-    </td>
-     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>Javascript
-    </td>
-     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS
-    </td>
-    <td align="center" width="96">
-      <a href="#git" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
-      </a>
-      <br>Git
-    </td>
-    
-</tr>
+---
 
-</table>
+# 📊 GitHub Analytics
 
-  <h2><img src="https://media4.giphy.com/media/PkY30am44byuuKIhxC/giphy.gif?cid=ecf05e47yz164j6jaxp6kt6427gf2gj0wutqvmvapgpo1atu&rid=giphy.gif&ct=g" width="35px" height="35px"> Trophies:</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=italo-mauricio&theme=gruvbox&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  /> <br> <br>
- 
-  
-</div> <br>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=italo-mauricio&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italo-mauricio&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=italo-mauricio&theme=tokyonight&hide_border=true" />
+</p>
 
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=italo-mauricio&theme=tokyonight" width="95%" />
+</p>
 
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=italo-mauricio&theme=tokyonight" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=italo-mauricio&theme=tokyonight" />
+</p>
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
 
+# 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=italo-mauricio&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
+</p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
+
+# 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.instagram.com/italomauricio1/">
+    <img src="https://img.shields.io/badge/Instagram-0F172A?style=for-the-badge&logo=instagram&logoColor=38BDF8" />
+  </a>
+
+  <a href="mailto:italogithub@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-0F172A?style=for-the-badge&logo=gmail&logoColor=38BDF8" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/italo-mauricio">
+    <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=38BDF8" />
+  </a>
+
+  <a href="https://profile.codersrank.io/user/italo-mauricio">
+    <img src="https://img.shields.io/badge/CodersRank-0F172A?style=for-the-badge&logo=CodersRank&logoColor=38BDF8" />
+  </a>
+</p>
+
+---
+
+# 🧠 Philosophy
+
+> "Great software is built one clean commit at a time."
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:38BDF8&height=120&section=footer" />
+</p>
