@@ -14,18 +14,28 @@
    
 #### Hello, my name is Italo, I'm a student of information systems in Federal University of Rio Grande do Norte, currently i'm focused on developing my skills in programming. I am currently working with Java and PostGreSQL on Mertins Technology's.
 
+
 ## Status:
 
-|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=italo-mauricio&theme=moltack)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=italo-mauricio&theme=moltack&utcOffset=-3)|
+|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=italo-mauricio&theme=tokyonight)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=italo-mauricio&theme=tokyonight&utcOffset=-3)|
 |---|---|
 <br> 
 
 
-|![](https://github-readme-streak-stats.herokuapp.com/?user=italo-mauricio&theme=moltack&hide_border=false)|![italo-mauricio's Stats](https://github-readme-stats.vercel.app/api?username=italo-mauricio&theme=moltack&show_icons=true&hide_border=true&count_private=true)
+|![](https://github-readme-streak-stats.herokuapp.com/?user=italo-mauricio&theme=tokyonight&hide_border=false)|![italo-mauricio's Stats](https://github-readme-stats.vercel.app/api?username=italo-mauricio&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 |---|---|
 <br>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=italo-mauricio&theme=moltack)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=italo-mauricio&theme=moltack)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=italo-mauricio&theme=tokyonight)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=italo-mauricio&theme=tokyonight)
+
+<h2>
+  <img src="https://media4.giphy.com/media/PkY30am44byuuKIhxC/giphy.gif?cid=ecf05e47yz164j6jaxp6kt6427gf2gj0wutqvmvapgpo1atu&rid=giphy.gif&ct=g" width="35px" height="35px"> 
+  Trophies:
+</h2>
+
+<img src="https://github-profile-trophy.vercel.app/?username=italo-mauricio&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  />
+
+
 
 <h2><img src="https://media.giphy.com/media/mpM654sL8gJumwGmAn/giphy.gif" width="30px" height="30px"> Contacts:</h2>
 
