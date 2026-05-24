@@ -1,4 +1,4 @@
-# 🌌 Ítalo Maurício
+# 🌌 Italo Maurício
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=34&duration=2500&pause=1200&color=7DD3FC&center=true&vCenter=true&width=900&lines=Backend+Developer;Java+%7C+PostgreSQL+%7C+Vue;Information+Systems+Student;Always+building+something+cool" alt="Typing SVG" />
